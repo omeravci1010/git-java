@@ -15,5 +15,10 @@ public class Class1 {
     private void f3() {
         
     }
+
+    private void f4() {
+
+    }
+    
     
 }
